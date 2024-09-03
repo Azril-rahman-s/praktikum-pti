@@ -1,0 +1,13 @@
+python punya tipe data:
+tipe data primitif ;
+    integer (int) yang bentuk angka
+    string (str) untuk data yang non numerikal tidak dapat dikalkulasi layaknya numering,contoh:a-z,0-9,speial char.dan biasanya string menggunakan tanda kutip
+    float (float) mirip dengan string tapi bisa menggunakan angka desimal
+    boolean(bool) adalah repertasian dari nilai true atau false
+    
+nonprimitif;
+
+
+
+tips:   kalau coding gunakan variable yang mudah dibaca dan punya arti
+        Usahakan gunakan komentar jika codingan terlalu banyak
